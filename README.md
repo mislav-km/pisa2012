@@ -1,4 +1,4 @@
-# pisa2012
+# Pisa2012 
 ## by Krunoslav Miskovic
 
 ## Dataset: pisa2012
@@ -30,4 +30,4 @@ The influence of the learning infrastructures on cognitive performance was made 
 
 ## Key Insights for Presentation
 
-I focused on the relation of digital learning environment and the performance of scientific work in the presentation. THe loops I have used in the exploratory file weren't necessary anymore and would have been to much for the presentation. I loaded the data for the presentation from the csv file "pisa2012new.csv" to reduce the load time. I have created this file after the wrangling process during the exploration. I used a piechart in the presentation instead of the barcharts in the exploratory file for the visualisation of the categorical variable CPU. All code and visualisations, that were not necessary to run the slide_show_pisa is removed.
+I focused on the relation of digital learning environment and the performance of scientific work in the presentation. The loops I have used in the exploratory file weren't necessary anymore and would have been to much for the presentation. I loaded the data for the presentation from the csv file "pisa2012new.csv" to reduce the loading time. I have created this file after the wrangling process during the exploration. I used a piechart in the presentation instead of the barcharts in the exploratory file for the visualisation of the categorical variable CPU. All code and visualisations, that are not necessary to run the slide_show_pisa, were removed.
