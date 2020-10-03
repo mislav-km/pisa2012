@@ -1,33 +1,31 @@
 # pisa2012
-pisa2012
-# (Dataset Exploration Title)
-## by (your name here)
+## by Krunoslav Miskovic
 
 
-## Dataset
+## Dataset: pisa2012
 
 * The original dataset is strucutred as a table with 636 columns and almost 500.000 rows.
 * As stated above I'm interested in environmental variables and how they relate to the performance of math, reading and scientific work.
 * These are the columns that can help me to investigate the influence of environmental variables on learning succcess:
     
->   NC Country
->   PV1READ Performance indicator reading
->   PV1MATH Performance indicator math
->   PV1SCIE Performance indicator science
->   ST11Q01 At Home - Mother
->   ST11Q02 At Home - Father
->   ST26Q01 Possessions - desk
->   ST26Q02 Possessions - own room
->   ST26Q03 Possessions - study place
->   ST26Q04 Possessions - computer
->   ST26Q05 Possessions - software
->   ST26Q06 Possessions - Internet
->   ST26Q07 Possessions - Literature
->   ST26Q08 Possessions - Poetry
->   ST26Q10 Possessions - Textbook
->   PARED Highest parental education in years
->   HOMEPOS
->   WEALTH
+** NC Country
+** PV1READ Performance indicator reading
+** PV1MATH Performance indicator math
+** PV1SCIE Performance indicator science
+** ST11Q01 At Home - Mother
+** ST11Q02 At Home - Father
+** ST26Q01 Possessions - desk
+** ST26Q02 Possessions - own room
+** ST26Q03 Possessions - study place
+** ST26Q04 Possessions - computer
+** ST26Q05 Possessions - software
+** ST26Q06 Possessions - Internet
+** ST26Q07 Possessions - Literature
+** ST26Q08 Possessions - Poetry
+** ST26Q10 Possessions - Textbook
+** PARED Highest parental education in years
+** HOMEPOS
+** WEALTH
 
 
 
